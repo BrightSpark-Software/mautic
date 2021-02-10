@@ -72,6 +72,8 @@
         "knplabs/gaufrette": "~0.9.0",
         "aws/aws-sdk-php": "~3.0",
 
+        "mautic/api-library": "^3.0.0",
+
         "friendsofsymfony/rest-bundle": "~2.6.0",
         "friendsofsymfony/oauth-server-bundle": "~1.6.0",
         "willdurand/oauth-server-bundle": "dev-release-0.0.3",
